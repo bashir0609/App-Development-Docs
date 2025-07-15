@@ -15,3 +15,12 @@ The changes address the compilation errors by:
 Implementing all abstract methods from every imports
 Ensuring all methods have the correct return types
 Maintaining the existing logic and structure of the provider
+
+# Completed features for surfe provider
+- People Search
+- People Enrichment
+
+# Remaining features for surfe provider
+- Company Search
+- Company Enrichment
+- Company Lookalike
